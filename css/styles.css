@@ -1,0 +1,9 @@
+body{
+    padding: 60px 0px 0px 0px;
+    z-index: 0;
+}
+.footer{
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px;
+}

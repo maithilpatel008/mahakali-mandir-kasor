@@ -1,11 +1,21 @@
-body{
-    padding: 60px 0px 0px 0px;
-    z-index: 0;
-    font-family: 'Hind Siliguri', sans-serif;
-    font-size: 1.1em;
+body {
+  padding: 60px 0px 0px 0px;
+  z-index: 0;
+  font-family: "Hind Siliguri", sans-serif;
+  font-size: 1.1em;
 }
-.footer{
-    background-color: #D1C4E9;
-    margin: 0px auto;
-    padding: 20px 0px;
+.footer {
+  background-color: #d1c4e9;
+  margin: 0px auto;
+  padding: 20px 0px;
+}
+
+.myguj {
+  font-family: "Rasa", serif;
+  font-size: 1.5em;
+}
+
+.myeng {
+  font-family: "Hind Siliguri", sans-serif;
+  font-size: 1.2em;
 }
